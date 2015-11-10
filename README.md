@@ -43,20 +43,20 @@ JDK linux 7, 8 바이너리 (64비트)
 JDK 6, 7, 8 Windows 설치 파일 (32비트)
 
 
-라이브러리...프로젝트 시작시 버전 체크 필요
-Birt Report
-apache flex sdk
-Apachi Poi 
-MyBatis
-Jedis
-Common-logging
-Common-Pool
-Common-Logging
-log4sql
-Log4j
-logback
-Gson
-dom4j
+## 라이브러리...프로젝트 시작시 버전 체크 필요
++ Birt Report
++ apache flex sdk
++ Apachi Poi 
++ MyBatis
++ Jedis
++ Common-logging
++ Common-Pool
++ Common-Logging
++ log4sql
++ Log4j
++ logback
++ Gson
++ dom4j
 
 Amcharts (js)
 HighCharts (js)
