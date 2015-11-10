@@ -39,7 +39,8 @@
 + FileZilla 
 + BandiZip
 
-+ VisualSvn
++ VisualSvn 또는 Gitlab
++ TortoiseSVN
 + Git client
 
 ## DB
