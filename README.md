@@ -1,46 +1,50 @@
 # Project-Program
 프로젝트시 지참 프로그램
 
+##텍스트 편집
++ UltraEdit
++ EditPlus 
++ AcroEdit
 
-UltraEdit
-EditPlus 
-AcroEdit
+##IDE
++ Eclipse (mars.1)
++ FlashBuilder 4.7 
++ FlashDevelop 
++ IntelliJ IDE
 
-Eclipse (mars.1)
-FlashBuilder 4.7 
-FlashDevelop 
-IntelliJ IDE
-Jd-gui (java decompiler)
+##기타 
++ Jd-gui (java decompiler)
++ TotalCommander 
++ FileZilla 
 
-TotalCommander 
-FileZilla 
++ Chrome Standalone Installer
 
-Chrome Standalone Installer
 
-FlashPlayer Release 
-FlashPlayer Debug
++ Infragistics 
++ VisualStudio 2015
 
-Infragistics 
-VisualStudio 2015
++ OCam 
++ PicPick
++ Photoshop or Paint.NET
++ BandiZip
 
-OCam 
-PicPick
-Photoshop or Paint.NET
-BandiZip
++ Toad for Oracle
++ Oracle Client
++ DB visualizer(bit check)
++ xManager 
++ SecureCRT
 
-Toad for Oracle
-Oracle Client
-xManager 
-SecureCRT
++ VisualSvn
++ Git client
 
-VisualSvn
-Git client
++ Tomcat 7
++ Tomcat 8
 
-Tomcat 7
-Tomcat 8
-
-JDK linux 7, 8 바이너리 (64비트)
-JDK 6, 7, 8 Windows 설치 파일 (32비트)
+##Runtime (SDK)
++ JDK linux 7, 8 바이너리 (64비트)
++ JDK 6, 7, 8 Windows 설치 파일 (32비트)
++ FlashPlayer Release 
++ FlashPlayer Debug
 
 
 ## 라이브러리...프로젝트 시작시 버전 체크 필요
@@ -58,5 +62,6 @@ JDK 6, 7, 8 Windows 설치 파일 (32비트)
 + Gson
 + dom4j
 
-Amcharts (js)
-HighCharts (js)
+##차트
++ Amcharts (js)
++ HighCharts (js)
