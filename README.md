@@ -8,35 +8,48 @@
 
 ##IDE
 + Eclipse (mars.1)
-+ FlashBuilder 4.7 
++ FlashBuilder 4.7
++ (layout 생성 픽스 포함)
++ Monster Debugger
++ Adobe Scout
 + FlashDevelop 
 + IntelliJ IDE
-
-##기타 
-+ Jd-gui (java decompiler)
-+ TotalCommander 
-+ FileZilla 
-
-+ Chrome Standalone Installer
-
-
++ Bracket
 + Infragistics 
 + VisualStudio 2015
 
+## 문서작성
++ 오피스
++ 한글
+
+##기타 
++ Jd-gui (java decompiler)
++ Chrome Standalone Installer
+
+## 그래픽/영상
 + OCam 
 + PicPick
 + Photoshop or Paint.NET
-+ BandiZip
 
-+ Toad for Oracle
-+ Oracle Client
-+ DB visualizer(bit check)
+##FTP/Telnet/파일관리
 + xManager 
 + SecureCRT
++ WinMerge
++ TotalCommander 
++ FileZilla 
++ BandiZip
 
 + VisualSvn
 + Git client
 
+## DB
++ Oracle (xe, standard, ent 상황별)
++ Oracle Client
++ Toad for Oracle
++ DB visualizer(bit check)
++ Redis
+
+## Java Container
 + Tomcat 7
 + Tomcat 8
 
@@ -45,7 +58,8 @@
 + JDK 6, 7, 8 Windows 설치 파일 (32비트)
 + FlashPlayer Release 
 + FlashPlayer Debug
-
++ Adobe AIR
++ .Net Framework 3, 4
 
 ## 라이브러리...프로젝트 시작시 버전 체크 필요
 + Birt Report
