@@ -56,7 +56,7 @@
 ##Runtime (SDK)
 + JDK linux 7, 8 바이너리 (64비트)
 + JDK 6, 7, 8 Windows 설치 파일 (32비트)
-+ FlashPlayer Release 
++ FlashPlayer Release (고객 배포용)
 + FlashPlayer Debug
 + Adobe AIR runtime
 + Adobe AIR SDK (flash 컴파일시)
