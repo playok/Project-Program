@@ -58,10 +58,11 @@
 + JDK 6, 7, 8 Windows 설치 파일 (32비트)
 + FlashPlayer Release 
 + FlashPlayer Debug
-+ Adobe AIR
++ Adobe AIR runtime
++ Adobe AIR SDK (flash 컴파일시)
 + .Net Framework 3, 4
 
-## 라이브러리...프로젝트 시작시 버전 체크 필요
+## 기타 라이브러리
 + Birt Report
 + apache flex sdk
 + Apachi Poi 
