@@ -55,7 +55,7 @@
 
 ##Runtime (SDK)
 + JDK linux 7, 8 바이너리 (64비트)
-+ JDK 6, 7, 8 Windows 설치 파일 (32비트)
++ JDK 6, 7, 8 Windows 설치 파일 (32, 64비트)
 + JDK API Doc
 + FlashPlayer Release (고객 배포용)
 + FlashPlayer Debug [Down](https://www.adobe.com/support/flashplayer/debug_downloads.html)
