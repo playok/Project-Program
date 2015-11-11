@@ -65,10 +65,11 @@
 + .Net Framework 3, 4
 
 ## 기타 라이브러리
++ Groovy [Down](http://www.groovy-lang.org/download.html)
 + Birt Report
-+ apache flex sdk
++ apache flex sdk [Down](http://flex.apache.org/download-binaries.html)
 + Apachi Poi 
-+ MyBatis
++ MyBatis [Down](https://github.com/mybatis/mybatis-3/releases)
 + Jedis
 + Common-logging
 + Common-Pool
