@@ -13,7 +13,7 @@
 + Monster Debugger [Down](http://www.monsterdebugger.com/downloads)
 + Adobe Scout
 + FlashDevelop [Down](http://www.flashdevelop.org/community/viewforum.php?f=11)
-+ IntelliJ IDE
++ IntelliJ IDE [Down](https://www.jetbrains.com/idea/download/)
 + Brackets [Down](http://brackets.io/)
 + Infragistics 
 + VisualStudio 2015
@@ -23,13 +23,14 @@
 + 한글
 
 ##기타 
-+ Jd-gui (java decompiler)
++ Jd-gui (java decompiler) [Down](http://jd.benow.ca/)
 + Chrome Standalone Installer [Down](http://www.google.com/chrome/eula.html?system=true&standalone=1)
 
 ## 그래픽/영상
-+ OCam 
-+ PicPick
-+ Photoshop or Paint.NET
++ OCam [Down](http://ohsoft.net/ko/bbs/board.php?bo_table=ocam_board)
++ PicPick [Down](http://wiziple.tistory.com/)
++ Photoshop
++ Paint.NET [Down](http://www.getpaint.net/download.html)
 
 ##FTP/Telnet/파일관리
 + xManager 
