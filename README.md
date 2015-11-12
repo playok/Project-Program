@@ -2,7 +2,7 @@
 프로젝트시 지참 프로그램
 
 ##텍스트 편집
-+ UltraEdit
++ UltraEdit [Down](http://www.ultraedit.com/)
 + EditPlus [Down](http://editplus.co.kr/kr/download.html)
 + AcroEdit [Down](http://www.acrosoft.pe.kr/board/download)
 + eXERD [Down](http://ko.exerd.com/#download-section)
@@ -17,7 +17,7 @@
 + IntelliJ IDE [Down](https://www.jetbrains.com/idea/download/)
 + Brackets [Down](http://brackets.io/)
 + Infragistics 
-+ VisualStudio 2015
++ VisualStudio 2015 [Down](https://www.visualstudio.com/ko-kr/downloads/download-visual-studio-vs.aspx)
 + ProGuard [Down](http://proguard.sourceforge.net/)
 
 ## 문서작성
@@ -35,7 +35,7 @@
 + Paint.NET [Down](http://www.getpaint.net/download.html)
 
 ##FTP/Telnet/파일관리
-+ xManager 
++ xManager  [Down](http://www.netsarang.co.kr/download/down_xmg5.html)
 + SecureCRT
 + WinMerge [Down](http://winmerge.org/downloads/)
 + TotalCommander [Down](http://www.ghisler.com/download.htm)
@@ -63,9 +63,9 @@
 + JDK 6, 7, 8 Windows 설치 파일 (32, 64비트)
 + JDK API Doc
 + FlashPlayer Release (고객 배포용)
-- [Adobe Flash Player for Internet Exporer ActiveX]
+++ [Adobe Flash Player for Internet Exporer ActiveX]
 (http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe)
-- [Adobe Flash Player for Firefox Opera - NPAPI]
+++ [Adobe Flash Player for Firefox Opera - NPAPI]
 (http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player_ppapi.exe)
 
 + FlashPlayer Debug [Down](https://www.adobe.com/support/flashplayer/debug_downloads.html)
