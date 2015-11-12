@@ -5,7 +5,7 @@
 + UltraEdit
 + EditPlus [Down](http://editplus.co.kr/kr/download.html)
 + AcroEdit [Down](http://www.acrosoft.pe.kr/board/download)
-
++ eXERD [Down](http://ko.exerd.com/#download-section)
 ##IDE
 + Eclipse IDE for Java EE Developers [Down](http://www.eclipse.org/downloads/)
 + FlashBuilder 4.7
