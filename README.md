@@ -36,10 +36,10 @@
 ##FTP/Telnet/파일관리
 + xManager 
 + SecureCRT
-+ WinMerge
-+ TotalCommander 
-+ FileZilla 
-+ BandiZip
++ WinMerge [Down](http://winmerge.org/downloads/)
++ TotalCommander [Down](http://www.ghisler.com/download.htm)
++ FileZilla [Down](https://filezilla-project.org/download.php?show_all=1)
++ BandiZip [Down](http://www.bandisoft.co.kr/bandizip/)
 + VisualSvn 또는 Gitlab
 + TortoiseSVN
 + Git client
