@@ -59,9 +59,9 @@
 + JDK 6, 7, 8 Windows 설치 파일 (32, 64비트)
 + JDK API Doc
 + FlashPlayer Release (고객 배포용)
-[Adobe Flash Player for Internet Exporer ActiveX]
+- [Adobe Flash Player for Internet Exporer ActiveX]
 (http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe)
-[Adobe Flash Player for Firefox Opera - NPAPI]
+- [Adobe Flash Player for Firefox Opera - NPAPI]
 (http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player_ppapi.exe)
 
 + FlashPlayer Debug [Down](https://www.adobe.com/support/flashplayer/debug_downloads.html)
