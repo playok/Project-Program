@@ -40,7 +40,8 @@
 + TotalCommander [Down](http://www.ghisler.com/download.htm)
 + FileZilla [Down](https://filezilla-project.org/download.php?show_all=1)
 + BandiZip [Down](http://www.bandisoft.co.kr/bandizip/)
-+ VisualSvn 또는 Gitlab
++ VisualSvn Server [Down](https://www.visualsvn.com/server/download/) 
++ Gitlab
 + TortoiseSVN
 + Git client
 + Adobe Acrobat Reader
