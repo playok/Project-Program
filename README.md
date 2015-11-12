@@ -43,6 +43,7 @@
 + VisualSvn 또는 Gitlab
 + TortoiseSVN
 + Git client
++ Adobe Acrobat Reader
 
 ## DB
 + Oracle (xe, standard, ent 상황별)
