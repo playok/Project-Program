@@ -59,31 +59,36 @@
 + JDK 6, 7, 8 Windows 설치 파일 (32, 64비트)
 + JDK API Doc
 + FlashPlayer Release (고객 배포용)
+[Adobe Flash Player for Internet Exporer ActiveX]
+(http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe)
+[Adobe Flash Player for Firefox Opera - NPAPI]
+(http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player_ppapi.exe)
+
 + FlashPlayer Debug [Down](https://www.adobe.com/support/flashplayer/debug_downloads.html)
 + Adobe AIR runtime [Down](http://www.adobe.com/products/air/runtime-distribution3.html)
 + Adobe AIR SDK & Compiler (flash 컴파일시)  [Down](http://www.adobe.com/devnet/air/air-sdk-download.html)
-+ .Net Framework 3, 4
++ .Net Framework 3, 4 [Down](http://getdotnet.azurewebsites.net/target-dotnet-platforms.html)
 
 ## 기타 라이브러리
 + Groovy [Down](http://www.groovy-lang.org/download.html)
-+ Birt Report
++ Birt Report [Down](http://download.eclipse.org/birt/downloads/)
 + apache flex sdk [Down](http://flex.apache.org/download-binaries.html)
-+ Apachi Poi 
++ Apache Poi [Down](https://poi.apache.org/download.html)
 + MyBatis [Down](https://github.com/mybatis/mybatis-3/releases)
-+ Jedis
-+ Common-logging
-+ Common-Pool
++ Jedis [Down](https://github.com/xetorthio/jedis/releases)
++ Common-logging [Down](https://commons.apache.org/proper/commons-logging/download_logging.cgi)
++ Common-Pool [Down](https://commons.apache.org/proper/commons-pool/download_pool.cgi)
 + Common-Logging
 + Common-fileUpload [Down](https://commons.apache.org/proper/commons-fileupload/)
-+ log4sql
++ log4sql [Down](http://sourceforge.net/projects/log4sql/files/)
 + Log4j
 + logback
-+ Gson
++ Gson [Down](https://github.com/google/gson/releases)
 + dom4j
 
 ##차트
-+ Amcharts (js)
-+ HighCharts (js)
++ Amcharts (js) [Down](http://www.amcharts.com/download/)
++ HighCharts (js) [Down](http://www.highcharts.com/download)
 
 ##Font
 + 나눔코딩 [Down](http://dev.naver.com/projects/nanumfont/)
